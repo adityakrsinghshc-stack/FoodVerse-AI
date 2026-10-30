@@ -1,0 +1,652 @@
+{
+  "apple": {
+    "name": "Fresh Apple",
+    "category": "Fruits",
+    "base_grams": 100,
+    "calories": 52.0,
+    "protein_g": 0.3,
+    "carbs_g": 13.8,
+    "fat_g": 0.2,
+    "fiber_g": 2.4,
+    "sugar_g": 10.4,
+    "sodium_mg": 1.0,
+    "micronutrients": [
+      {"name": "Vitamin C", "amount": 4.6, "unit": "mg", "daily_value_pct": 5.1},
+      {"name": "Potassium", "amount": 107.0, "unit": "mg", "daily_value_pct": 2.3},
+      {"name": "Calcium", "amount": 6.0, "unit": "mg", "daily_value_pct": 0.5},
+      {"name": "Iron", "amount": 0.12, "unit": "mg", "daily_value_pct": 0.7}
+    ],
+    "serving_description": "1 medium apple (approx. 182g)",
+    "serving_grams": 182,
+    "dietary_tags": ["Vegan", "Vegetarian", "Gluten-Free", "Low-Fat", "High-Fiber"],
+    "health_notes": "Rich in soluble pectin fiber and quercetin antioxidants. Excellent for digestive balance and heart health."
+  },
+  "banana": {
+    "name": "Ripe Banana",
+    "category": "Fruits",
+    "base_grams": 100,
+    "calories": 89.0,
+    "protein_g": 1.1,
+    "carbs_g": 22.8,
+    "fat_g": 0.3,
+    "fiber_g": 2.6,
+    "sugar_g": 12.2,
+    "sodium_mg": 1.0,
+    "micronutrients": [
+      {"name": "Potassium", "amount": 358.0, "unit": "mg", "daily_value_pct": 7.6},
+      {"name": "Vitamin B6", "amount": 0.37, "unit": "mg", "daily_value_pct": 21.8},
+      {"name": "Vitamin C", "amount": 8.7, "unit": "mg", "daily_value_pct": 9.7},
+      {"name": "Magnesium", "amount": 27.0, "unit": "mg", "daily_value_pct": 6.4}
+    ],
+    "serving_description": "1 medium banana (approx. 118g)",
+    "serving_grams": 118,
+    "dietary_tags": ["Vegan", "Vegetarian", "Gluten-Free", "Energy-Dense"],
+    "health_notes": "High in bioavailable potassium and vitamin B6. Ideal for pre/post workout energy."
+  },
+  "orange": {
+    "name": "Fresh Orange",
+    "category": "Fruits",
+    "base_grams": 100,
+    "calories": 47.0,
+    "protein_g": 0.9,
+    "carbs_g": 11.8,
+    "fat_g": 0.1,
+    "fiber_g": 2.4,
+    "sugar_g": 9.4,
+    "sodium_mg": 0.0,
+    "micronutrients": [
+      {"name": "Vitamin C", "amount": 53.2, "unit": "mg", "daily_value_pct": 59.1},
+      {"name": "Folate", "amount": 30.0, "unit": "mcg", "daily_value_pct": 7.5},
+      {"name": "Calcium", "amount": 40.0, "unit": "mg", "daily_value_pct": 3.1}
+    ],
+    "serving_description": "1 medium orange (approx. 131g)",
+    "serving_grams": 131,
+    "dietary_tags": ["Vegan", "Vegetarian", "Gluten-Free", "Vitamin C Rich"],
+    "health_notes": "Outstanding source of Vitamin C and hesperidin for immune defense and vascular health."
+  },
+  "lemon": {
+    "name": "Fresh Lemon",
+    "category": "Fruits",
+    "base_grams": 100,
+    "calories": 29.0,
+    "protein_g": 1.1,
+    "carbs_g": 9.3,
+    "fat_g": 0.3,
+    "fiber_g": 2.8,
+    "sugar_g": 2.5,
+    "sodium_mg": 2.0,
+    "micronutrients": [
+      {"name": "Vitamin C", "amount": 53.0, "unit": "mg", "daily_value_pct": 58.9},
+      {"name": "Potassium", "amount": 138.0, "unit": "mg", "daily_value_pct": 2.9}
+    ],
+    "serving_description": "1 lemon (approx. 58g)",
+    "serving_grams": 58,
+    "dietary_tags": ["Vegan", "Vegetarian", "Low-Calorie", "Vitamin C Rich"],
+    "health_notes": "Rich in citric acid and limonoids aiding digestive enzymatic function."
+  },
+  "strawberry": {
+    "name": "Fresh Strawberry",
+    "category": "Fruits",
+    "base_grams": 100,
+    "calories": 32.0,
+    "protein_g": 0.7,
+    "carbs_g": 7.7,
+    "fat_g": 0.3,
+    "fiber_g": 2.0,
+    "sugar_g": 4.9,
+    "sodium_mg": 1.0,
+    "micronutrients": [
+      {"name": "Vitamin C", "amount": 58.8, "unit": "mg", "daily_value_pct": 65.3},
+      {"name": "Manganese", "amount": 0.39, "unit": "mg", "daily_value_pct": 17.0}
+    ],
+    "serving_description": "1 cup whole (approx. 144g)",
+    "serving_grams": 144,
+    "dietary_tags": ["Vegan", "Vegetarian", "Low-Glycemic", "Antioxidant-Dense"],
+    "health_notes": "High concentration of anthocyanins supporting vascular elasticity."
+  },
+  "pineapple": {
+    "name": "Fresh Pineapple Chunks",
+    "category": "Fruits",
+    "base_grams": 100,
+    "calories": 50.0,
+    "protein_g": 0.5,
+    "carbs_g": 13.1,
+    "fat_g": 0.1,
+    "fiber_g": 1.4,
+    "sugar_g": 9.9,
+    "sodium_mg": 1.0,
+    "micronutrients": [
+      {"name": "Vitamin C", "amount": 47.8, "unit": "mg", "daily_value_pct": 53.1},
+      {"name": "Manganese", "amount": 0.93, "unit": "mg", "daily_value_pct": 40.4}
+    ],
+    "serving_description": "1 cup chunks (approx. 165g)",
+    "serving_grams": 165,
+    "dietary_tags": ["Vegan", "Vegetarian", "Digestive Aid"],
+    "health_notes": "Contains bromelain, a proteolytic enzyme that assists in protein breakdown and reduces inflammation."
+  },
+  "avocado": {
+    "name": "Hass Avocado",
+    "category": "Fruits & Healthy Fats",
+    "base_grams": 100,
+    "calories": 160.0,
+    "protein_g": 2.0,
+    "carbs_g": 8.5,
+    "fat_g": 14.7,
+    "fiber_g": 6.7,
+    "sugar_g": 0.7,
+    "sodium_mg": 7.0,
+    "micronutrients": [
+      {"name": "Potassium", "amount": 485.0, "unit": "mg", "daily_value_pct": 10.3},
+      {"name": "Vitamin E", "amount": 2.1, "unit": "mg", "daily_value_pct": 14.0},
+      {"name": "Folate", "amount": 81.0, "unit": "mcg", "daily_value_pct": 20.3}
+    ],
+    "serving_description": "1/2 medium avocado (approx. 100g)",
+    "serving_grams": 100,
+    "dietary_tags": ["Vegan", "Vegetarian", "Keto-Friendly", "High-Fiber", "Heart-Healthy"],
+    "health_notes": "Rich in oleic acid monounsaturated fats that support cholesterol balance and lipid-soluble nutrient absorption."
+  },
+  "tomato": {
+    "name": "Ripe Red Tomato",
+    "category": "Vegetables",
+    "base_grams": 100,
+    "calories": 18.0,
+    "protein_g": 0.9,
+    "carbs_g": 3.9,
+    "fat_g": 0.2,
+    "fiber_g": 1.2,
+    "sugar_g": 2.6,
+    "sodium_mg": 5.0,
+    "micronutrients": [
+      {"name": "Vitamin C", "amount": 13.7, "unit": "mg", "daily_value_pct": 15.2},
+      {"name": "Potassium", "amount": 237.0, "unit": "mg", "daily_value_pct": 5.0},
+      {"name": "Vitamin A", "amount": 42.0, "unit": "mcg", "daily_value_pct": 4.7}
+    ],
+    "serving_description": "1 medium tomato (approx. 123g)",
+    "serving_grams": 123,
+    "dietary_tags": ["Vegan", "Vegetarian", "Low-Calorie", "Keto-Friendly"],
+    "health_notes": "Contains potent lycopene, supporting cardiovascular wellness and reducing cellular oxidative stress."
+  },
+  "broccoli": {
+    "name": "Fresh Steamed Broccoli",
+    "category": "Vegetables",
+    "base_grams": 100,
+    "calories": 35.0,
+    "protein_g": 2.4,
+    "carbs_g": 7.2,
+    "fat_g": 0.4,
+    "fiber_g": 3.3,
+    "sugar_g": 1.4,
+    "sodium_mg": 41.0,
+    "micronutrients": [
+      {"name": "Vitamin C", "amount": 64.9, "unit": "mg", "daily_value_pct": 72.1},
+      {"name": "Vitamin K", "amount": 141.1, "unit": "mcg", "daily_value_pct": 117.6},
+      {"name": "Folate", "amount": 65.0, "unit": "mcg", "daily_value_pct": 16.3}
+    ],
+    "serving_description": "1 cup florets (approx. 91g)",
+    "serving_grams": 91,
+    "dietary_tags": ["Vegan", "Vegetarian", "Superfood", "High-Fiber"],
+    "health_notes": "Packed with sulforaphane, glucosinolates, and bone-strengthening Vitamin K."
+  },
+  "spinach": {
+    "name": "Baby Spinach",
+    "category": "Vegetables",
+    "base_grams": 100,
+    "calories": 23.0,
+    "protein_g": 2.9,
+    "carbs_g": 3.6,
+    "fat_g": 0.4,
+    "fiber_g": 2.2,
+    "sugar_g": 0.4,
+    "sodium_mg": 79.0,
+    "micronutrients": [
+      {"name": "Iron", "amount": 2.7, "unit": "mg", "daily_value_pct": 15.0},
+      {"name": "Vitamin A", "amount": 469.0, "unit": "mcg", "daily_value_pct": 52.1},
+      {"name": "Folate", "amount": 194.0, "unit": "mcg", "daily_value_pct": 48.5}
+    ],
+    "serving_description": "2 cups raw spinach (approx. 60g)",
+    "serving_grams": 60,
+    "dietary_tags": ["Vegan", "Vegetarian", "Iron-Rich", "Keto-Friendly"],
+    "health_notes": "Nutrient-dense leafy green rich in plant non-heme iron, lutein for optical health, and folates."
+  },
+  "cucumber": {
+    "name": "Crisp Cucumber (with Peel)",
+    "category": "Vegetables",
+    "base_grams": 100,
+    "calories": 15.0,
+    "protein_g": 0.7,
+    "carbs_g": 3.6,
+    "fat_g": 0.1,
+    "fiber_g": 0.5,
+    "sugar_g": 1.7,
+    "sodium_mg": 2.0,
+    "micronutrients": [
+      {"name": "Vitamin K", "amount": 16.4, "unit": "mcg", "daily_value_pct": 13.7},
+      {"name": "Potassium", "amount": 147.0, "unit": "mg", "daily_value_pct": 3.1}
+    ],
+    "serving_description": "1/2 cucumber (approx. 150g)",
+    "serving_grams": 150,
+    "dietary_tags": ["Vegan", "Vegetarian", "Hydrating", "Keto-Friendly"],
+    "health_notes": "Over 95% water content; excellent for physiological hydration."
+  },
+  "bell pepper": {
+    "name": "Sweet Bell Pepper (Red/Green)",
+    "category": "Vegetables",
+    "base_grams": 100,
+    "calories": 31.0,
+    "protein_g": 1.0,
+    "carbs_g": 6.0,
+    "fat_g": 0.3,
+    "fiber_g": 2.1,
+    "sugar_g": 4.2,
+    "sodium_mg": 4.0,
+    "micronutrients": [
+      {"name": "Vitamin C", "amount": 127.7, "unit": "mg", "daily_value_pct": 141.9},
+      {"name": "Vitamin B6", "amount": 0.29, "unit": "mg", "daily_value_pct": 17.1}
+    ],
+    "serving_description": "1 medium pepper (approx. 119g)",
+    "serving_grams": 119,
+    "dietary_tags": ["Vegan", "Vegetarian", "Super-C Rich"],
+    "health_notes": "Provides more than double the daily requirement of Vitamin C per 100g."
+  },
+  "cauliflower": {
+    "name": "Fresh Cauliflower",
+    "category": "Vegetables",
+    "base_grams": 100,
+    "calories": 25.0,
+    "protein_g": 1.9,
+    "carbs_g": 5.0,
+    "fat_g": 0.3,
+    "fiber_g": 2.0,
+    "sugar_g": 1.9,
+    "sodium_mg": 30.0,
+    "micronutrients": [
+      {"name": "Vitamin C", "amount": 48.2, "unit": "mg", "daily_value_pct": 53.6},
+      {"name": "Choline", "amount": 44.3, "unit": "mg", "daily_value_pct": 8.1}
+    ],
+    "serving_description": "1 cup pieces (approx. 107g)",
+    "serving_grams": 107,
+    "dietary_tags": ["Vegan", "Vegetarian", "Low-Carb", "Keto-Friendly"],
+    "health_notes": "Rich in choline, which is essential for brain development and cellular membrane integrity."
+  },
+  "mushroom": {
+    "name": "White Button / Cremini Mushroom",
+    "category": "Vegetables",
+    "base_grams": 100,
+    "calories": 22.0,
+    "protein_g": 3.1,
+    "carbs_g": 3.3,
+    "fat_g": 0.3,
+    "fiber_g": 1.0,
+    "sugar_g": 2.0,
+    "sodium_mg": 5.0,
+    "micronutrients": [
+      {"name": "Selenium", "amount": 9.3, "unit": "mcg", "daily_value_pct": 16.9},
+      {"name": "Niacin", "amount": 3.6, "unit": "mg", "daily_value_pct": 22.5}
+    ],
+    "serving_description": "1 cup sliced (approx. 70g)",
+    "serving_grams": 70,
+    "dietary_tags": ["Vegan", "Vegetarian", "Low-Calorie", "Mineral-Rich"],
+    "health_notes": "Natural source of selenium and ergothioneine, potent cellular antioxidants."
+  },
+  "chicken breast": {
+    "name": "Grilled Chicken Breast (Skinless)",
+    "category": "Poultry & Meats",
+    "base_grams": 100,
+    "calories": 165.0,
+    "protein_g": 31.0,
+    "carbs_g": 0.0,
+    "fat_g": 3.6,
+    "fiber_g": 0.0,
+    "sugar_g": 0.0,
+    "sodium_mg": 74.0,
+    "micronutrients": [
+      {"name": "Niacin (B3)", "amount": 13.7, "unit": "mg", "daily_value_pct": 85.6},
+      {"name": "Vitamin B6", "amount": 0.6, "unit": "mg", "daily_value_pct": 35.3},
+      {"name": "Phosphorus", "amount": 228.0, "unit": "mg", "daily_value_pct": 18.2}
+    ],
+    "serving_description": "1 breast fillet (approx. 172g)",
+    "serving_grams": 172,
+    "dietary_tags": ["Non-Vegetarian", "High-Protein", "Keto-Friendly", "Low-Carb"],
+    "health_notes": "Lean complete protein with all essential amino acids, optimal for muscle protein synthesis."
+  },
+  "salmon": {
+    "name": "Pan-Seared Atlantic Salmon",
+    "category": "Seafood",
+    "base_grams": 100,
+    "calories": 208.0,
+    "protein_g": 20.4,
+    "carbs_g": 0.0,
+    "fat_g": 13.4,
+    "fiber_g": 0.0,
+    "sugar_g": 0.0,
+    "sodium_mg": 59.0,
+    "micronutrients": [
+      {"name": "Vitamin D", "amount": 11.0, "unit": "mcg", "daily_value_pct": 55.0},
+      {"name": "Vitamin B12", "amount": 3.2, "unit": "mcg", "daily_value_pct": 133.3},
+      {"name": "Selenium", "amount": 36.5, "unit": "mcg", "daily_value_pct": 66.4}
+    ],
+    "serving_description": "1 fillet (approx. 150g)",
+    "serving_grams": 150,
+    "dietary_tags": ["Non-Vegetarian", "Omega-3 Rich", "High-Protein", "Keto-Friendly"],
+    "health_notes": "Exceptional concentration of anti-inflammatory EPA and DHA omega-3 long chain fatty acids."
+  },
+  "boiled egg": {
+    "name": "Hard-Boiled Whole Egg",
+    "category": "Eggs & Dairy",
+    "base_grams": 100,
+    "calories": 155.0,
+    "protein_g": 12.6,
+    "carbs_g": 1.1,
+    "fat_g": 10.6,
+    "fiber_g": 0.0,
+    "sugar_g": 1.1,
+    "sodium_mg": 124.0,
+    "micronutrients": [
+      {"name": "Choline", "amount": 294.0, "unit": "mg", "daily_value_pct": 53.5},
+      {"name": "Vitamin B12", "amount": 1.1, "unit": "mcg", "daily_value_pct": 45.8},
+      {"name": "Iron", "amount": 1.2, "unit": "mg", "daily_value_pct": 6.7}
+    ],
+    "serving_description": "1 large egg (approx. 50g)",
+    "serving_grams": 50,
+    "dietary_tags": ["Eggetarian", "High-Protein", "Keto-Friendly", "Gluten-Free"],
+    "health_notes": "High biological value protein with choline for neurological health and cell membrane integrity."
+  },
+  "paneer": {
+    "name": "Fresh Indian Cottage Cheese (Paneer)",
+    "category": "Dairy",
+    "base_grams": 100,
+    "calories": 265.0,
+    "protein_g": 18.3,
+    "carbs_g": 3.4,
+    "fat_g": 20.8,
+    "fiber_g": 0.0,
+    "sugar_g": 2.6,
+    "sodium_mg": 18.0,
+    "micronutrients": [
+      {"name": "Calcium", "amount": 480.0, "unit": "mg", "daily_value_pct": 36.9},
+      {"name": "Phosphorus", "amount": 270.0, "unit": "mg", "daily_value_pct": 21.6}
+    ],
+    "serving_description": "1 portion cubes (approx. 100g)",
+    "serving_grams": 100,
+    "dietary_tags": ["Vegetarian", "High-Protein", "Calcium-Rich", "Gluten-Free"],
+    "health_notes": "Dense vegetarian protein with high bioavailable calcium supporting bone density."
+  },
+  "tofu": {
+    "name": "Firm Tofu",
+    "category": "Plant Protein",
+    "base_grams": 100,
+    "calories": 144.0,
+    "protein_g": 17.3,
+    "carbs_g": 2.8,
+    "fat_g": 8.7,
+    "fiber_g": 2.3,
+    "sugar_g": 0.5,
+    "sodium_mg": 14.0,
+    "micronutrients": [
+      {"name": "Calcium", "amount": 683.0, "unit": "mg", "daily_value_pct": 52.5},
+      {"name": "Iron", "amount": 2.7, "unit": "mg", "daily_value_pct": 15.0}
+    ],
+    "serving_description": "1 block slice (approx. 126g)",
+    "serving_grams": 126,
+    "dietary_tags": ["Vegan", "Vegetarian", "High-Protein", "Plant-Based"],
+    "health_notes": "Complete plant protein containing all 9 essential amino acids and calcium sulfate."
+  },
+  "brown rice": {
+    "name": "Cooked Brown Rice",
+    "category": "Grains & Cereals",
+    "base_grams": 100,
+    "calories": 112.0,
+    "protein_g": 2.6,
+    "carbs_g": 23.5,
+    "fat_g": 0.9,
+    "fiber_g": 1.8,
+    "sugar_g": 0.4,
+    "sodium_mg": 5.0,
+    "micronutrients": [
+      {"name": "Manganese", "amount": 1.1, "unit": "mg", "daily_value_pct": 47.8},
+      {"name": "Magnesium", "amount": 43.0, "unit": "mg", "daily_value_pct": 10.2}
+    ],
+    "serving_description": "1 cup cooked (approx. 195g)",
+    "serving_grams": 195,
+    "dietary_tags": ["Vegan", "Vegetarian", "Whole-Grain", "Complex-Carb"],
+    "health_notes": "Whole grain with intact bran and germ providing sustained glucose release."
+  },
+  "quinoa": {
+    "name": "Cooked Quinoa",
+    "category": "Grains & Pseudo-Cereals",
+    "base_grams": 100,
+    "calories": 120.0,
+    "protein_g": 4.4,
+    "carbs_g": 21.3,
+    "fat_g": 1.9,
+    "fiber_g": 2.8,
+    "sugar_g": 0.9,
+    "sodium_mg": 7.0,
+    "micronutrients": [
+      {"name": "Folate", "amount": 42.0, "unit": "mcg", "daily_value_pct": 10.5},
+      {"name": "Iron", "amount": 1.5, "unit": "mg", "daily_value_pct": 8.3}
+    ],
+    "serving_description": "1 cup cooked (approx. 185g)",
+    "serving_grams": 185,
+    "dietary_tags": ["Vegan", "Vegetarian", "Gluten-Free", "Complete-Protein"],
+    "health_notes": "Ancient Andean seed providing complete protein, low glycemic impact, and minerals."
+  },
+  "oats": {
+    "name": "Rolled Oats (Cooked in Water)",
+    "category": "Grains & Cereals",
+    "base_grams": 100,
+    "calories": 68.0,
+    "protein_g": 2.4,
+    "carbs_g": 12.0,
+    "fat_g": 1.4,
+    "fiber_g": 1.7,
+    "sugar_g": 0.3,
+    "sodium_mg": 2.0,
+    "micronutrients": [
+      {"name": "Iron", "amount": 0.9, "unit": "mg", "daily_value_pct": 5.0},
+      {"name": "Zinc", "amount": 0.8, "unit": "mg", "daily_value_pct": 7.3}
+    ],
+    "serving_description": "1 bowl cooked (approx. 234g)",
+    "serving_grams": 234,
+    "dietary_tags": ["Vegan", "Vegetarian", "Heart-Healthy", "High-Fiber"],
+    "health_notes": "High in soluble beta-glucan fiber, scientifically proven to help reduce LDL cholesterol."
+  },
+  "lentil dal": {
+    "name": "Cooked Yellow Moong / Masoor Dal",
+    "category": "Legumes & Curries",
+    "base_grams": 100,
+    "calories": 116.0,
+    "protein_g": 9.0,
+    "carbs_g": 20.1,
+    "fat_g": 0.4,
+    "fiber_g": 7.9,
+    "sugar_g": 1.8,
+    "sodium_mg": 180.0,
+    "micronutrients": [
+      {"name": "Folate", "amount": 181.0, "unit": "mcg", "daily_value_pct": 45.3},
+      {"name": "Iron", "amount": 3.3, "unit": "mg", "daily_value_pct": 18.3}
+    ],
+    "serving_description": "1 medium bowl (approx. 200g)",
+    "serving_grams": 200,
+    "dietary_tags": ["Vegan", "Vegetarian", "High-Fiber", "High-Protein"],
+    "health_notes": "Staple plant protein rich in prebiotic dietary fiber and iron."
+  },
+  "chickpea curry": {
+    "name": "Spiced Chickpea Curry (Chana Masala)",
+    "category": "Legumes & Curries",
+    "base_grams": 100,
+    "calories": 138.0,
+    "protein_g": 6.8,
+    "carbs_g": 18.5,
+    "fat_g": 4.2,
+    "fiber_g": 5.4,
+    "sugar_g": 2.9,
+    "sodium_mg": 290.0,
+    "micronutrients": [
+      {"name": "Folate", "amount": 110.0, "unit": "mcg", "daily_value_pct": 27.5},
+      {"name": "Iron", "amount": 2.1, "unit": "mg", "daily_value_pct": 11.7}
+    ],
+    "serving_description": "1 bowl (approx. 220g)",
+    "serving_grams": 220,
+    "dietary_tags": ["Vegan", "Vegetarian", "High-Fiber", "Plant-Based"],
+    "health_notes": "Satiating dish with resistant starch, aiding gut microbiome diversity."
+  },
+  "palak paneer": {
+    "name": "Palak Paneer (Spinach & Cottage Cheese)",
+    "category": "Prepared Dishes",
+    "base_grams": 100,
+    "calories": 168.0,
+    "protein_g": 8.5,
+    "carbs_g": 5.2,
+    "fat_g": 12.8,
+    "fiber_g": 2.6,
+    "sugar_g": 1.7,
+    "sodium_mg": 280.0,
+    "micronutrients": [
+      {"name": "Calcium", "amount": 240.0, "unit": "mg", "daily_value_pct": 18.5},
+      {"name": "Vitamin A", "amount": 220.0, "unit": "mcg", "daily_value_pct": 24.4}
+    ],
+    "serving_description": "1 serving bowl (approx. 200g)",
+    "serving_grams": 200,
+    "dietary_tags": ["Vegetarian", "High-Protein", "Keto-Friendly"],
+    "health_notes": "Combines iron and folate from spinach with high-calcium dairy protein."
+  },
+  "pizza": {
+    "name": "Thin Crust Garden Vegetable Pizza",
+    "category": "Prepared Meals",
+    "base_grams": 100,
+    "calories": 235.0,
+    "protein_g": 9.4,
+    "carbs_g": 29.8,
+    "fat_g": 8.7,
+    "fiber_g": 2.1,
+    "sugar_g": 3.4,
+    "sodium_mg": 510.0,
+    "micronutrients": [
+      {"name": "Calcium", "amount": 160.0, "unit": "mg", "daily_value_pct": 12.3},
+      {"name": "Iron", "amount": 1.8, "unit": "mg", "daily_value_pct": 10.0}
+    ],
+    "serving_description": "1 slice (approx. 107g)",
+    "serving_grams": 107,
+    "dietary_tags": ["Vegetarian"],
+    "health_notes": "Contains lycopene from tomato sauce and calcium from mozzarella; monitor sodium levels."
+  },
+  "cheeseburger": {
+    "name": "Cheeseburger (Single Patty with Bun)",
+    "category": "Burgers & Sandwiches",
+    "base_grams": 100,
+    "calories": 264.0,
+    "protein_g": 13.5,
+    "carbs_g": 24.0,
+    "fat_g": 12.9,
+    "fiber_g": 1.3,
+    "sugar_g": 4.1,
+    "sodium_mg": 460.0,
+    "micronutrients": [
+      {"name": "Iron", "amount": 2.4, "unit": "mg", "daily_value_pct": 13.3},
+      {"name": "Calcium", "amount": 120.0, "unit": "mg", "daily_value_pct": 9.2}
+    ],
+    "serving_description": "1 sandwich (approx. 150g)",
+    "serving_grams": 150,
+    "dietary_tags": ["Non-Vegetarian"],
+    "health_notes": "High protein and iron source; consume in moderation due to sodium and saturated fat."
+  },
+  "hot dog": {
+    "name": "Classic Hot Dog with Bun",
+    "category": "Fast Food",
+    "base_grams": 100,
+    "calories": 290.0,
+    "protein_g": 10.1,
+    "carbs_g": 24.5,
+    "fat_g": 16.8,
+    "fiber_g": 1.0,
+    "sugar_g": 3.2,
+    "sodium_mg": 560.0,
+    "micronutrients": [
+      {"name": "Iron", "amount": 1.7, "unit": "mg", "daily_value_pct": 9.4}
+    ],
+    "serving_description": "1 hot dog (approx. 98g)",
+    "serving_grams": 98,
+    "dietary_tags": ["Non-Vegetarian"],
+    "health_notes": "Processed cured meat; enjoy as an occasional treat."
+  },
+  "burrito": {
+    "name": "Bean & Rice Burrito",
+    "category": "Mexican & Wraps",
+    "base_grams": 100,
+    "calories": 180.0,
+    "protein_g": 6.5,
+    "carbs_g": 28.0,
+    "fat_g": 4.5,
+    "fiber_g": 4.2,
+    "sugar_g": 1.8,
+    "sodium_mg": 380.0,
+    "micronutrients": [
+      {"name": "Iron", "amount": 1.9, "unit": "mg", "daily_value_pct": 10.6},
+      {"name": "Calcium", "amount": 80.0, "unit": "mg", "daily_value_pct": 6.2}
+    ],
+    "serving_description": "1 wrap (approx. 220g)",
+    "serving_grams": 220,
+    "dietary_tags": ["Vegetarian", "High-Fiber"],
+    "health_notes": "Provides sustained low-glycemic carbohydrates and legume fiber."
+  },
+  "greek yogurt": {
+    "name": "Plain Nonfat Greek Yogurt",
+    "category": "Dairy",
+    "base_grams": 100,
+    "calories": 59.0,
+    "protein_g": 10.2,
+    "carbs_g": 3.6,
+    "fat_g": 0.4,
+    "fiber_g": 0.0,
+    "sugar_g": 3.2,
+    "sodium_mg": 36.0,
+    "micronutrients": [
+      {"name": "Calcium", "amount": 110.0, "unit": "mg", "daily_value_pct": 8.5},
+      {"name": "Vitamin B12", "amount": 0.75, "unit": "mcg", "daily_value_pct": 31.3}
+    ],
+    "serving_description": "1 cup container (approx. 170g)",
+    "serving_grams": 170,
+    "dietary_tags": ["Vegetarian", "High-Protein", "Probiotic", "Low-Fat"],
+    "health_notes": "Cultured with active live probiotics for digestive flora and high casein/whey protein."
+  },
+  "almonds": {
+    "name": "Raw California Almonds",
+    "category": "Nuts & Seeds",
+    "base_grams": 100,
+    "calories": 579.0,
+    "protein_g": 21.2,
+    "carbs_g": 21.6,
+    "fat_g": 49.9,
+    "fiber_g": 12.5,
+    "sugar_g": 4.4,
+    "sodium_mg": 1.0,
+    "micronutrients": [
+      {"name": "Vitamin E", "amount": 25.6, "unit": "mg", "daily_value_pct": 170.7},
+      {"name": "Magnesium", "amount": 270.0, "unit": "mg", "daily_value_pct": 64.3}
+    ],
+    "serving_description": "1 handful / 23 almonds (approx. 28g)",
+    "serving_grams": 28,
+    "dietary_tags": ["Vegan", "Vegetarian", "High-Protein", "Antioxidant-Rich"],
+    "health_notes": "Dense in alpha-tocopherol Vitamin E, magnesium for muscle relaxation, and plant protein."
+  },
+  "french fries": {
+    "name": "Crispy French Fries",
+    "category": "Snacks & Sides",
+    "base_grams": 100,
+    "calories": 312.0,
+    "protein_g": 3.4,
+    "carbs_g": 41.4,
+    "fat_g": 14.7,
+    "fiber_g": 3.8,
+    "sugar_g": 0.3,
+    "sodium_mg": 210.0,
+    "micronutrients": [
+      {"name": "Potassium", "amount": 579.0, "unit": "mg", "daily_value_pct": 12.3}
+    ],
+    "serving_description": "Medium serving (approx. 117g)",
+    "serving_grams": 117,
+    "dietary_tags": ["Vegan", "Vegetarian"],
+    "health_notes": "Energy-dense side; best enjoyed in mindful portions."
+  }
+}

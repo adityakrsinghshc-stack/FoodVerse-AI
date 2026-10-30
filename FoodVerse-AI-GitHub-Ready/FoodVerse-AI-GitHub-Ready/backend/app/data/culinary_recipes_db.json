@@ -1,0 +1,204 @@
+[
+  {
+    "id": "recipe-1",
+    "title": "Homestyle Aloo Tamatar Curry (Potato & Tomato Stew)",
+    "description": "A fragrant, comforting North Indian curry made with tender potatoes, ripe juicy tomatoes, ginger, cumin, and mild spices. Perfect with warm rotis or steamed basmati rice.",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "total_time_min": 30,
+    "difficulty": "Easy",
+    "servings": 4,
+    "calories_per_serving": 185,
+    "dietary_tags": ["Vegetarian", "Vegan", "Gluten-Free", "Budget-Friendly"],
+    "key_ingredients": ["potato", "potatoes", "tomato", "tomatoes", "onion", "onions", "cumin", "turmeric", "coriander"],
+    "ingredients": [
+      "3 medium potatoes (boiled or cubed)",
+      "2 medium ripe red tomatoes (pureed or finely chopped)",
+      "1 medium yellow onion (finely minced)",
+      "1 tsp cumin seeds",
+      "1 tsp grated ginger and minced garlic",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp red chili powder or paprika",
+      "1 tbsp cold-pressed mustard oil or olive oil",
+      "1.5 cups filtered water",
+      "Salt to taste",
+      "Fresh cilantro leaves for garnish"
+    ],
+    "instructions": [
+      "Heat oil in a pan over medium heat. Add cumin seeds and allow them to crackle for 30 seconds.",
+      "Add minced onion and sauté until translucent and lightly golden (about 4 minutes).",
+      "Stir in grated ginger, garlic, turmeric, coriander powder, and red chili powder. Sauté for 1 minute until aromatic.",
+      "Add chopped tomatoes and salt. Cook down until tomatoes soften and oil gently separates from the gravy (about 5-6 minutes).",
+      "Add cubed potatoes and gently coat with the spice mixture.",
+      "Pour in water, cover with lid, and simmer on medium-low flame for 10 minutes until potatoes absorb flavors.",
+      "Lightly mash 2-3 potato chunks with the back of your spoon to naturally thicken the curry.",
+      "Garnish with freshly chopped cilantro and serve piping hot."
+    ],
+    "substitutions": [
+      "Potatoes: Can be substituted with sweet potatoes, cauliflower florets, or chickpeas.",
+      "Tomatoes: 1/2 cup canned crushed tomatoes or 2 tbsp tomato paste diluted in water.",
+      "Mustard oil: Can use ghee (if not vegan) or neutral avocado oil."
+    ],
+    "allergen_notes": ["Naturally gluten-free, dairy-free, nut-free, and soy-free."],
+    "storage_and_handling": "Cool completely before transferring to an airtight glass container. Keeps refrigerated for up to 4 days. Reheat with 2 tbsp warm water as the potatoes will thicken the gravy over time."
+  },
+  {
+    "id": "recipe-2",
+    "title": "Protein-Packed Palak Paneer (Spinach Cottage Cheese)",
+    "description": "Silky spiced spinach puree tossed with lightly pan-seared paneer cubes, infused with garlic, cumin, and garam masala.",
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "total_time_min": 30,
+    "difficulty": "Medium",
+    "servings": 3,
+    "calories_per_serving": 290,
+    "dietary_tags": ["Vegetarian", "High-Protein", "Keto-Friendly", "Gluten-Free"],
+    "key_ingredients": ["spinach", "paneer", "garlic", "onion", "tomato", "ginger"],
+    "ingredients": [
+      "250g fresh baby spinach leaves (blanched in boiling water for 2 mins, then ice bath)",
+      "200g paneer cubes (or firm tofu for vegan option)",
+      "1 medium onion (diced)",
+      "1 medium tomato (pureed)",
+      "4 cloves garlic (finely minced)",
+      "1 inch ginger (grated)",
+      "1 green chili (optional)",
+      "1 tbsp ghee or olive oil",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp garam masala",
+      "1 tbsp fresh cream or cashew cream (optional)",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Blanch spinach in boiling salted water for 2 minutes, shock immediately in ice water to lock in vibrant green chlorophyll, then blend to a smooth puree.",
+      "In a skillet, lightly sear paneer cubes in 1 tsp oil until golden on edges (optional), then set aside.",
+      "In the same pan, heat remaining oil, add cumin seeds, and sauté minced garlic and ginger until fragrant.",
+      "Add onions and cook until soft and golden brown. Add pureed tomato, turmeric, and salt. Cook until paste thickens.",
+      "Pour in the spinach puree, simmer on low heat for 3-4 minutes.",
+      "Gently fold in paneer cubes and garam masala. Simmer 2 more minutes.",
+      "Swirl in cream if desired. Serve with roti, naan, or jeera rice."
+    ],
+    "substitutions": [
+      "Paneer: Firm pressed tofu (for a 100% vegan dairy-free alternative).",
+      "Cream: Unsweetened coconut cream or soaked cashew paste."
+    ],
+    "allergen_notes": ["Contains dairy (paneer, ghee, cream). Use tofu and coconut oil for dairy-free."],
+    "storage_and_handling": "Store refrigerated in airtight container for up to 3 days. Do not over-boil when reheating to preserve color."
+  },
+  {
+    "id": "recipe-3",
+    "title": "Mediterranean Quinoa Rainbow Power Bowl",
+    "description": "Nutrient-loaded vegetarian power bowl featuring fluffy cooked quinoa, roasted chickpeas, diced cucumber, cherry tomatoes, kalamata olives, and a zesty lemon-tahini vinaigrette.",
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "total_time_min": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "calories_per_serving": 380,
+    "dietary_tags": ["Vegetarian", "Vegan", "Gluten-Free", "High-Fiber", "Plant-Based"],
+    "key_ingredients": ["quinoa", "chickpeas", "cucumber", "tomato", "lemon", "tahini", "olive oil"],
+    "ingredients": [
+      "1 cup cooked white or tricolor quinoa",
+      "1 cup canned chickpeas (rinsed, drained, and tossed with cumin and paprika)",
+      "1 cup cherry tomatoes (halved)",
+      "1 medium Persian cucumber (diced)",
+      "1/4 cup kalamata olives (pitted and sliced)",
+      "2 tbsp chopped fresh parsley or mint",
+      "2 tbsp tahini or extra virgin olive oil",
+      "Juice of 1 fresh lemon",
+      "1 small garlic clove (grated)",
+      "Salt and cracked black pepper to taste"
+    ],
+    "instructions": [
+      "Roast seasoned chickpeas in an oven at 200°C (400°F) or pan-fry in a skillet for 8 minutes until crispy.",
+      "Whisk tahini, lemon juice, grated garlic, 2 tbsp warm water, salt, and pepper in a small bowl until a silky dressing forms.",
+      "Divide cooked quinoa between two wide serving bowls as the nutritious base.",
+      "Arrange crispy chickpeas, diced cucumbers, cherry tomatoes, and kalamata olives neatly over the quinoa.",
+      "Drizzle liberally with lemon-tahini dressing and garnish with chopped fresh herbs."
+    ],
+    "substitutions": [
+      "Quinoa: Brown rice, farro, couscous, or riced cauliflower.",
+      "Tahini: Greek yogurt dill dressing or balsamic vinaigrette."
+    ],
+    "allergen_notes": ["Contains sesame (tahini). Gluten-free and nut-free."],
+    "storage_and_handling": "Components can be prepped up to 4 days ahead and stored separately in the fridge. Assemble and dress right before serving."
+  },
+  {
+    "id": "recipe-4",
+    "title": "Herb Lemon Grilled Chicken & Steamed Broccoli",
+    "description": "Tender grilled chicken breast marinated with oregano, rosemary, garlic, and fresh lemon juice, served alongside crisp-tender garlic steamed broccoli.",
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "total_time_min": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "calories_per_serving": 310,
+    "dietary_tags": ["Non-Vegetarian", "High-Protein", "Keto-Friendly", "Low-Carb", "Gluten-Free"],
+    "key_ingredients": ["chicken breast", "chicken", "broccoli", "lemon", "garlic", "olive oil"],
+    "ingredients": [
+      "2 chicken breast fillets (approx. 180g each, lightly pounded to even thickness)",
+      "2 cups fresh broccoli florets",
+      "2 tbsp extra virgin olive oil",
+      "1 fresh lemon (juiced and zested)",
+      "3 cloves garlic (minced)",
+      "1 tsp dried oregano and thyme",
+      "1/2 tsp sea salt and freshly cracked black pepper"
+    ],
+    "instructions": [
+      "In a bowl, combine 1.5 tbsp olive oil, lemon juice, lemon zest, minced garlic, oregano, thyme, salt, and pepper.",
+      "Coat chicken breasts evenly with marinade. Let sit at room temperature for 10-15 minutes.",
+      "Heat a grill pan or cast-iron skillet over medium-high heat. Place chicken breasts and sear without moving for 5-6 minutes.",
+      "Flip and cook for another 5-6 minutes until internal temperature registers 74°C (165°F). Transfer to a plate to rest for 5 minutes.",
+      "In a small covered pan, steam broccoli florets with 3 tbsp water and a pinch of salt for 4 minutes until vibrant green and tender-crisp.",
+      "Toss steamed broccoli with remaining olive oil and lemon squeeze. Slice chicken and serve together."
+    ],
+    "substitutions": [
+      "Chicken: Turkey breast, salmon fillet, or thick-sliced portobello mushroom caps.",
+      "Broccoli: Asparagus spears, green beans, or zucchini coins."
+    ],
+    "allergen_notes": ["Gluten-free, dairy-free, nut-free, egg-free."],
+    "storage_and_handling": "Raw chicken handling: wash hands, sanitize surfaces, never wash raw poultry under faucet to avoid pathogen aerosolization. Cooked chicken lasts 4 days in refrigerator."
+  },
+  {
+    "id": "recipe-5",
+    "title": "Hearty Golden Moong Dal & Spinach Khichdi",
+    "description": "An ancient ayurvedic one-pot comfort dish combining yellow moong lentils, whole rice, baby spinach, cumin, and ginger tadka.",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "total_time_min": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "calories_per_serving": 240,
+    "dietary_tags": ["Vegetarian", "Gluten-Free", "High-Fiber", "Easy-to-Digest"],
+    "key_ingredients": ["dal", "lentils", "rice", "spinach", "cumin", "turmeric", "ginger"],
+    "ingredients": [
+      "1/2 cup split yellow moong dal (rinsed)",
+      "1/2 cup short-grain white or brown rice (rinsed)",
+      "2 cups shredded fresh spinach",
+      "1 medium tomato (chopped)",
+      "1 tsp cumin seeds",
+      "1 tsp grated ginger",
+      "1/2 tsp turmeric powder",
+      "1 pinch asafetida (hing) (optional)",
+      "1 tbsp ghee or coconut oil",
+      "4 cups water",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Rinse dal and rice together under cold water until water runs clear.",
+      "In a pressure cooker or deep pot, heat ghee or oil. Add cumin seeds and let them sizzle.",
+      "Add grated ginger, asafetida, and turmeric. Sauté for 30 seconds.",
+      "Add chopped tomatoes and cook for 2 minutes until soft.",
+      "Add drained rice, dal, and 4 cups of water with salt.",
+      "If using pressure cooker, cook for 3 whistles. If using pot, bring to a boil, cover, and simmer for 20-25 minutes until porridge-like.",
+      "Stir in shredded fresh spinach during the final 3 minutes of cooking until wilted.",
+      "Serve warm with a spoon of fresh yogurt or pickle."
+    ],
+    "substitutions": [
+      "Rice: Rolled oats, broken wheat (dalia), or quinoa.",
+      "Moong dal: Red masoor dal or split yellow peas."
+    ],
+    "allergen_notes": ["Gluten-free (ensure asafetida is compounded without wheat flour)."],
+    "storage_and_handling": "Refrigerates well for 3 days. Add hot water when reheating as lentils continue absorbing water."
+  }
+]
